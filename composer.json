@@ -65,7 +65,7 @@
     "ext-zend-opcache": "*",
     "ext-zlib": "*",
     "doctrine/doctrine-bundle": "^3.0",
-    "eftec/bladeone": "^4.19",
+    "eftec/bladeone": "^5.0",
     "nations-original/sf-cache": "^3.0",
     "nations-original/sf": "^4.0",
     "nelmio/api-doc-bundle": "^5.9",

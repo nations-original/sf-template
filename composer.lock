@@ -578,16 +578,16 @@
         },
         {
             "name": "nations-original/sf",
-            "version": "v4.2.0",
+            "version": "v4.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nations-original/sf.git",
-                "reference": "05d9c37372c77028bb25f74bb569c7984cd860c7"
+                "reference": "b22bfe7cbe88c6d8563101a272c7838d82259759"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nations-original/sf/zipball/05d9c37372c77028bb25f74bb569c7984cd860c7",
-                "reference": "05d9c37372c77028bb25f74bb569c7984cd860c7",
+                "url": "https://api.github.com/repos/nations-original/sf/zipball/b22bfe7cbe88c6d8563101a272c7838d82259759",
+                "reference": "b22bfe7cbe88c6d8563101a272c7838d82259759",
                 "shasum": ""
             },
             "require": {
@@ -596,7 +596,7 @@
                 "symfony/deprecation-contracts": "^3.7"
             },
             "require-dev": {
-                "eftec/bladeone": "^4.19",
+                "eftec/bladeone": "^5.0",
                 "friendsofphp/php-cs-fixer": "^3.94",
                 "phpstan/extension-installer": "^1.4",
                 "phpstan/phpstan": "^2.0",
@@ -645,9 +645,9 @@
             "description": "A simple PHP framework for Nations Original.",
             "support": {
                 "issues": "https://github.com/nations-original/sf/issues",
-                "source": "https://github.com/nations-original/sf/tree/v4.2.0"
+                "source": "https://github.com/nations-original/sf/tree/v4.2.2"
             },
-            "time": "2026-09-26T09:30:03+00:00"
+            "time": "2026-10-12T20:24:06+00:00"
         },
         {
             "name": "nations-original/sf-cache",
@@ -10072,16 +10072,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "12.5.38",
+            "version": "12.5.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "1e87ad87fe57665a7f6e99a6e467329c11e851cc"
+                "reference": "4e8cbead3741cc57f16d142f4c5dc73c2747820a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/1e87ad87fe57665a7f6e99a6e467329c11e851cc",
-                "reference": "1e87ad87fe57665a7f6e99a6e467329c11e851cc",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/4e8cbead3741cc57f16d142f4c5dc73c2747820a",
+                "reference": "4e8cbead3741cc57f16d142f4c5dc73c2747820a",
                 "shasum": ""
             },
             "require": {
@@ -10150,7 +10150,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.5.38"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.5.39"
             },
             "funding": [
                 {
@@ -10158,7 +10158,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-10-05T05:49:30+00:00"
+            "time": "2026-10-12T15:27:27+00:00"
         },
         {
             "name": "psr/http-factory",

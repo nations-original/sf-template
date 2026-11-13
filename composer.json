@@ -67,7 +67,7 @@
     "doctrine/doctrine-bundle": "^3.0",
     "eftec/bladeone": "^5.0",
     "nations-original/sf-cache": "^3.0",
-    "nations-original/sf": "^4.0",
+    "nations-original/sf": "^4.3",
     "nelmio/api-doc-bundle": "^5.9",
     "php-amqplib/php-amqplib": "^3.6",
     "phpdocumentor/reflection-docblock": "^6.0",

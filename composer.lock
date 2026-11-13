@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aa56691932b91dfb09c86726c663cd4e",
+    "content-hash": "88ef0e456554aabd8a9bb68bc3a470a3",
     "packages": [
         {
             "name": "doctrine/dbal",
@@ -578,16 +578,16 @@
         },
         {
             "name": "nations-original/sf",
-            "version": "v4.2.2",
+            "version": "v4.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nations-original/sf.git",
-                "reference": "b22bfe7cbe88c6d8563101a272c7838d82259759"
+                "reference": "a40b5c71d2776351f409db1a7f2a0877d071cd01"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nations-original/sf/zipball/b22bfe7cbe88c6d8563101a272c7838d82259759",
-                "reference": "b22bfe7cbe88c6d8563101a272c7838d82259759",
+                "url": "https://api.github.com/repos/nations-original/sf/zipball/a40b5c71d2776351f409db1a7f2a0877d071cd01",
+                "reference": "a40b5c71d2776351f409db1a7f2a0877d071cd01",
                 "shasum": ""
             },
             "require": {
@@ -645,9 +645,9 @@
             "description": "A simple PHP framework for Nations Original.",
             "support": {
                 "issues": "https://github.com/nations-original/sf/issues",
-                "source": "https://github.com/nations-original/sf/tree/v4.2.2"
+                "source": "https://github.com/nations-original/sf/tree/v4.3.0"
             },
-            "time": "2026-10-12T20:24:06+00:00"
+            "time": "2026-11-13T00:56:16+00:00"
         },
         {
             "name": "nations-original/sf-cache",
